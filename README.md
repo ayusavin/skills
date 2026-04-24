@@ -12,6 +12,7 @@ supported agent (Claude Code, Cursor, Codex, and 40+ more).
 | Skill | Description |
 |-------|-------------|
 | [design-process](./design-process/SKILL.md) | A disciplined process for producing design artifacts (websites, prototypes, slides, covers, mobile screens) with the AI acting as a senior designer. |
+| [memory-bank](./memory-bank/SKILL.md) | Maintains a lightweight, always-current "project encyclopedia" in `.memory-bank/` — capturing architecture, stack, conventions, key entities, and active tasks. |
 
 ## Installation
 
